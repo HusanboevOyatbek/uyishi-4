@@ -1,0 +1,201 @@
+.section{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 30px;
+    padding-right: 30px;
+
+}
+
+.section-menu__h1{
+    font-size: 60px;
+    margin-bottom:30px;
+}
+.section-menu__p{
+    margin-bottom: 30px;
+    color: #8F95A5;
+}
+.hover-cards{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+
+.hover{
+
+padding-top: 90px;
+padding-bottom: 90px;
+}
+.card{
+    background-color: #F5F5F5;
+    padding-bottom: 10px;
+    padding-bottom: 10px;
+    
+    
+    
+}
+
+.hover_h1{
+text-align: center;
+font-size: 45px;
+}
+
+.card h1, p{
+    padding-left: 20px;
+}
+.card:hover{
+    transform: scale(1.1);
+    transition: 1s;
+}
+
+.card img{
+    width: 390px;
+    
+
+}
+
+.card__btn-1-2 {
+    margin-left: 20px;
+    background-color: black;
+    color: white;
+    width: 200px;
+    height: 40px;
+    border-radius: 5px;
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+.card__btn-1-2-2{
+    margin-left: 20px;
+        background-color: black;
+        color: white;
+        width: 200px;
+        height: 40px;
+        border-radius: 5px;
+        margin-top: 65px;
+        cursor: pointer;
+}
+
+
+
+.card__2{
+    background-color: #F5F5F5;
+        padding-bottom: 10px;
+        padding-bottom: 10px;
+        padding-top: 100px;
+        
+
+}
+.card__2 h1{
+    padding-left: 20px;
+}
+
+.card__2:hover{
+    transform: scale(1.1);
+        transition: 1s;
+}
+
+.menu__btn{
+    width:350px ;
+    height: 80px;
+    border-radius: 15px;
+    background-color: black;
+    color: white;
+}
+.up{
+    display: flex;
+    align-items: center;
+    
+}
+.box{
+    display: flex;
+    gap: 90px;
+    margin-top: 30px;
+}
+.up__h1{
+    padding-left: 20px;
+    padding-bottom: 30px;
+}
+.up__p{
+padding-bottom: 20px;
+color: #8F95A5;
+}
+
+.up__menu__statistic{
+    text-align: center;
+    padding-left: 10px;
+}
+
+
+.pricing{
+    display: flex;
+    justify-content: space-between;
+    
+
+}
+
+.online{
+    padding-top: 90px;
+    padding-bottom: 90px;
+    
+}
+
+.online__h1{
+    text-align: center;
+    margin-bottom: 30px;
+    font-size: 40px;
+   
+}
+
+.online__card h1{
+    padding-left: 20px;
+    padding-bottom: 20px;
+    
+
+}
+.online__card h2{
+    padding-left: 20px;
+   padding-top: 20px;
+}
+
+.contact{
+    display: flex;
+    justify-content: space-between;
+    align-items:center;
+    
+}
+
+.h1-siz{
+    font-size: 45px;
+    margin-bottom: 30px;
+    padding-left: 20px;
+}
+
+.ppp{
+    margin-bottom: 30px;
+    color:#8F95A5 ;
+}
+.input{
+    width: 450px;
+    height: 50px;
+    padding-left: 20px;
+    margin-left: 20px;
+}
+
+.input-b {
+    width: 200px;
+    height: 50px;
+    border-radius: 10px;
+    background-color: black;
+    color: white;
+}
+
+.online__card:hover{
+    transform: scale(1.1);
+        transition: 1s;
+}
+
+
+button{
+    cursor: pointer;
+}

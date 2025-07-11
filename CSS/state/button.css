@@ -1,0 +1,10 @@
+
+
+.menu__btn{
+    width: 400px;
+    height:70px ;
+    background-color:#263238 ;
+    color: white;
+    font-size: 20px;
+    border-radius:15px ;
+}
